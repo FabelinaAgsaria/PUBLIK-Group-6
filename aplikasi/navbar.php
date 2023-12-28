@@ -51,7 +51,7 @@
 </header>
 <!-- End Navbar -->
 <!-- Home -->
-<div class="card">
+<div class="card" style="backgorund-color: green;">
   <section id="hero" class="hero d-flex align-items-center section-bg" style="background-color: #3b5998;">
     <div class="container">
       <h1 class="layanan">Layanan Aspirasi dan Pengaduan Online Rakyat</h1>
